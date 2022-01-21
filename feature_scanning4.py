@@ -18,8 +18,8 @@ Output (ch_scan):
 - frame width (im_w) [pixels]
 - frame height (im_h) [pixels]
 - Field of view (FoV) [deg]
-- change of horizontal location from middle point (x_c) [pixels]
-- change of vertical location from middle point (y_c) [pixels]
+- offset of horizontal location from middle point (x_c) [pixels]
+- offset of vertical location from middle point (y_c) [pixels]
 - heigth of qr code (h) [pixels]
 - width of qr code (w) [pixels]
 """
