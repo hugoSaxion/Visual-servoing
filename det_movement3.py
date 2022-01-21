@@ -19,8 +19,8 @@ Input (ch_scan):
 - frame width (im_w) [pixels]
 - frame height (im_h) [pixels]
 - Field of view (FoV) [deg]
-- change of horizontal location from first detection point (x_c) [pixels]
-- change of vertical location from first detection point (y_c) [pixels]
+- offset of horizontal location from first detection point (x_c) [pixels]
+- offset of vertical location from first detection point (y_c) [pixels]
 
 Output (ch_mov):
 - x movement (x) [cm]
